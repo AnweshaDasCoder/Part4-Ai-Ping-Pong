@@ -1,0 +1,33 @@
+body
+{
+    background-size: cover;
+}
+.heading 
+{
+    width: 100%;
+    text-align: left;
+}
+.heading h3 
+{
+    display: inline;
+}
+.heading button
+{
+    float: right;
+    border: 1px solid white;
+}
+
+#start,#status
+{
+font-size: 22px
+}
+#canvas
+ {
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px white;
+}
+#bye {
+    margin-left: 20px;
+}
